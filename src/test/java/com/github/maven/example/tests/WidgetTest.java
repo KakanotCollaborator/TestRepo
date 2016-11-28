@@ -32,4 +32,8 @@ public class WidgetTest {
 		widget.setEnabled(true);
 		assertTrue(widget.isEnabled());
 	}
+	@Test
+	public void updateEnableState2() {
+		assertTrue(true);
+	}
 }
